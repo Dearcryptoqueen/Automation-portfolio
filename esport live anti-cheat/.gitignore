@@ -1,0 +1,23 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+dashboard/node_modules/
+dashboard/.next/
+dashboard/out/
+dashboard/next-env.d.ts
+dashboard/*.tsbuildinfo
+/data/
+
+
+# Stray screen captures and credential files
+Screenshot*.png
+Screen?Shot*.png
+screenshot*.png
+capture*.png
+client_secret_*.json
+.mcp.json
